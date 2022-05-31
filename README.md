@@ -11,6 +11,8 @@
 
 ## [製品ページ](https://bit-trade-one.co.jp/product/picraspi/adgh04/)
 
+## [FAQ](https://github.com/bit-trade-one/ADGH04P_Enviroment_Data_Logger/blob/master/FAQ.md)
+
 ## 製品仕様
 
 【対応OS】Raspbian  
